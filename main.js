@@ -25,37 +25,37 @@ const music_list = [
     img: "assets/images/BackAgain.jpg",
     name: "Back Again",
     artist: "ThatBehavior",
-    music: "assets/music/ThatBehavior - Back Again [NCS Release] copy.mp3",
+    music: "assets/music/ThatBehavior - Back Again [NCS Release].mp3",
   },
   {
     img: "assets/images/RealGoodLiar.jpeg",
     name: "Real Good Liar",
     artist: "Nokae",
-    music: "assets/music/Nokae - Real Good Liar [NCS Release] copy.mp3",
+    music: "assets/music/Nokae - Real Good Liar [NCS Release].mp3",
   },
   {
     img: "assets/images/perfection1.jpg",
     name: "Perfection",
     artist: "Derek Cate",
-    music: "assets/music/Derek Cate, B3nte, Mangoo - Perfection (Feat. Derek Cate) [NCS Release] copy.mp3",
+    music: "assets/music/Derek Cate, B3nte, Mangoo - Perfection (Feat. Derek Cate) [NCS Release].mp3",
   },
   {
     img: "assets/images/Mortals.jpg",
     name: "Mortals",
     artist: "Warriyo, Laura Brehm",
-    music: "assets/music/Warriyo, Laura Brehm - Mortals (feat. Laura Brehm) [NCS Release] copy.mp3",
+    music: "assets/music/Warriyo, Laura Brehm - Mortals (feat. Laura Brehm) [NCS Release].mp3",
   },
   {
     img: "assets/images/FeelingsFade.jpg",
     name: "Feelings Fade",
     artist: "Wwings, jeonghyeon",
-    music: "assets/music/Wwings, jeonghyeon - Feelings Fade [NCS Release] copy.mp3",
+    music: "assets/music/Wwings, jeonghyeon - Feelings Fade [NCS Release].mp3",
   },
   {
     img: "assets/images/DieForYou.jpg",
     name: "Die For You",
     artist: "Whales",
-    music: "assets/music/Whales - Die For You [NCS Release] copy.mp3",
+    music: "assets/music/Whales - Die For You [NCS Release].mp3",
   },
 ];
 
